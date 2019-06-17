@@ -15,4 +15,3 @@
 //= require turbolinks
 //= require alert_maker
 //= require main
-
